@@ -30,7 +30,8 @@ h1 {
 }
 
 .jumbotron { margin-top: 1em;
-  background: url(../img/crockerblue.jpg) no-repeat center center ; 
+  color: white;
+  background: url(../img/crocker-black.jpg) no-repeat center center ; 
   background-size: 100%;
 }
 
