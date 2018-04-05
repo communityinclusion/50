@@ -1,10 +1,4 @@
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
@@ -12,7 +6,11 @@ body {
   color: black;
   overflow-x: hidden;
   padding-bottom: 50px;
-}  /* INTRO SECTION
+}
+
+a {color: #6E9A35;}
+
+/* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .intro {
@@ -31,7 +29,10 @@ h1 {
   font-size: 4.5rem;
 }
 
-.jumbotron {background-color: #CEE6FD; margin-top: 1em;}
+.jumbotron { margin-top: 1em;
+  background: url(../img/crockerblue.jpg) no-repeat center center ; 
+  background-size: 100%;
+}
 
 .bluetype a {color:#4275AD;}
 i {padding-right: 3em;}
