@@ -31,7 +31,10 @@ h1 {
   font-size: 4.5rem;
 }
 
-.jumbotron {background-color: #CEE6FD;}
+.jumbotron {background-color: #CEE6FD; margin-top: 1em;}
+
+.bluetype a {color:#4275AD;}
+i {padding-right: 3em;}
 
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
