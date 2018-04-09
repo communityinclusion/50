@@ -33,6 +33,7 @@ h1 {
   color: white;
   background: url(../img/crocker-black.jpg) no-repeat center center ; 
   background-size: 100%;
+  background-color: black;
 }
 
 .bluetype a {color:#4275AD;}
