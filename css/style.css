@@ -10,6 +10,15 @@ body {
 
 a {color: #6E9A35;}
 
+@media screen and (min-width: 900px) {
+ .jumbotron p {
+	font-size: 1.25rem;
+	font-weight: 300;
+}
+}
+
+
+
 /* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -41,6 +50,8 @@ i {padding-right: 3em;}
 
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+#tl {background:#4275AD; color: white;}
+
 
 .timeline ul {
   background: #4275AD;
@@ -160,6 +171,7 @@ time {
 }
 
 @media screen and (max-width: 600px) {
+ 
   .timeline ul li {
     margin-left: 20px;
   }
