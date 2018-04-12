@@ -51,6 +51,7 @@ i {padding-right: 3em;}
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #tl {background:#4275AD; color: white;}
+#tl img {border:2px solid white;}
 
 
 .timeline ul {
