@@ -8,7 +8,7 @@ body {
   padding-bottom: 50px;
 }
 
-a {color: #6E9A35;}
+a {color: #6E9A35; text-decoration: underline !important;}
 
 @media screen and (min-width: 900px) {
  .jumbotron p {
